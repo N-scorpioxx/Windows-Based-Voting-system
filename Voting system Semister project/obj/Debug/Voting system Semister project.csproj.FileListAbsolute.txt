@@ -1,0 +1,57 @@
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\bin\Debug\Voting system Semister project.exe.config
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\bin\Debug\Voting system Semister project.exe
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\bin\Debug\Voting system Semister project.pdb
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\obj\Debug\Voting system Semister project.csprojResolveAssemblyReference.cache
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\obj\Debug\Voting_system_Semister_project.Properties.Resources.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\obj\Debug\Voting system Semister project.csproj.GenerateResource.cache
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\obj\Debug\Voting system Semister project.csproj.CoreCompileInputs.cache
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\obj\Debug\Voting system Semister project.csproj.CopyComplete
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\obj\Debug\Voting system Semister project.exe
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\obj\Debug\Voting system Semister project.pdb
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\bin\Debug\AForge.dll
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\bin\Debug\AForge.Video.dll
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\bin\Debug\zxing.dll
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\bin\Debug\zxing.presentation.dll
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\bin\Debug\AForge.xml
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\bin\Debug\AForge.Video.xml
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\bin\Debug\zxing.pdb
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\bin\Debug\zxing.xml
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\bin\Debug\zxing.presentation.pdb
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\bin\Debug\zxing.presentation.xml
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\obj\Debug\Voting_system_Semister_project.mainmenu.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\obj\Debug\Voting_system_Semister_project.login1.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\obj\Debug\Voting_system_Semister_project.candidateadder.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\obj\Debug\Voting_system_Semister_project.votersadder.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\obj\Debug\Voting_system_Semister_project.login2.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\obj\Debug\Voting_system_Semister_project.votingmenu.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\Programs\Voting system Semister project\Voting system Semister project\obj\Debug\Voting_system_Semister_project.results.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\bin\Debug\Voting system Semister project.exe.config
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\bin\Debug\Voting system Semister project.exe
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\bin\Debug\Voting system Semister project.pdb
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\bin\Debug\AForge.dll
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\bin\Debug\AForge.Video.dll
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\bin\Debug\zxing.dll
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\bin\Debug\zxing.presentation.dll
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\bin\Debug\AForge.xml
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\bin\Debug\AForge.Video.xml
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\bin\Debug\zxing.pdb
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\bin\Debug\zxing.xml
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\bin\Debug\zxing.presentation.pdb
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\bin\Debug\zxing.presentation.xml
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\obj\Debug\Voting system Semister project.csprojResolveAssemblyReference.cache
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\obj\Debug\Voting_system_Semister_project.login2.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\obj\Debug\Voting_system_Semister_project.mainmenu.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\obj\Debug\Voting_system_Semister_project.login1.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\obj\Debug\Voting_system_Semister_project.candidateadder.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\obj\Debug\Voting_system_Semister_project.results.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\obj\Debug\Voting_system_Semister_project.votersadder.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\obj\Debug\Voting_system_Semister_project.votingmenu.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\obj\Debug\Voting_system_Semister_project.Properties.Resources.resources
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\obj\Debug\Voting system Semister project.csproj.GenerateResource.cache
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\obj\Debug\Voting system Semister project.csproj.CoreCompileInputs.cache
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\obj\Debug\Voting system Semister project.csproj.CopyComplete
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\obj\Debug\Voting system Semister project.exe
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\obj\Debug\Voting system Semister project.pdb
+D:\UNIVERCITY STUFF\semister 5\Visual Programming\sem proj polling system\Voting system Semister project_backup\Voting system Semister project\obj\Debug\Voting system Semister project.csprojAssemblyReference.cache
